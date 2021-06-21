@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome
+
+Hey there! Welcome to my TFT blog. Here, you'll find a compilation of my game notes, vod reviews, or other interesting discussions.
